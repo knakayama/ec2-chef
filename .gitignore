@@ -1,0 +1,10 @@
+.envrc
+.vagrant
+.chef
+.bundle
+/cookbooks/
+Gemfile.lock
+Berksfile.lock
+/vendor/
+/nodes/
+
