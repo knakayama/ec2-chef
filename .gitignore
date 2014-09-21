@@ -7,4 +7,5 @@ Gemfile.lock
 Berksfile.lock
 /vendor/
 /nodes/
+/roles/
 
